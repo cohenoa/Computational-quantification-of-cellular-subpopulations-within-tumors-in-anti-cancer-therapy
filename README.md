@@ -13,7 +13,7 @@ in order to compute G and λ values.
 
 ### Input ###
 In both scripts the variable `data` is the input matrix, where 
-each column represents a particular protein, and each row a cell i.
+each column represents a particular protein, and each row is a cell i.
 Examples of data inputs are presented as in supplementary tables S2-S7.
 
 ### Output ###
