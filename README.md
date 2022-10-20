@@ -1,6 +1,6 @@
 # Code to accompany the paper:  "Computational quantification and characterization of independently evolving cellular subpopulations within tumors is critical to inhibit anti-cancer therapy resistance"
 
-https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01121-y
+Link to the paper: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01121-y
 
 ## 1. Introduction ##
 All equations and detailed information are elaborated
